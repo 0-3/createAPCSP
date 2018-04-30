@@ -19,9 +19,9 @@
 
 .description {
     border: 1px solid #EAEDF0;
+    border-radius: 25px;
     width: 40%;
     height: auto;
-    background-color: #EAEDF0;
     margin: 5%;
 }
 
